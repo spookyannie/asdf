@@ -1,0 +1,2 @@
+# asdf
+my static page
